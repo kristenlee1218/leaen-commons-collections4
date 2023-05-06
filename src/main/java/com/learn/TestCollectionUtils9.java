@@ -14,7 +14,7 @@ import java.util.List;
  */
 public class TestCollectionUtils9 {
     public static void main(String[] args) {
-        //checking inclusion
+        // checking inclusion
         List<String> list1 = Arrays.asList("A", "A", "A", "C", "B", "B");
         List<String> list2 = Arrays.asList("A", "A", "B", "B");
 
